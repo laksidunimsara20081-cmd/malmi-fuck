@@ -1,7 +1,7 @@
 {
   "ownerName": "Laksidu Nimsara",
   "ownerWhatsapp": "94703830990",
-  "price": "50/-",
+  "price": "100/-",
   "ownerBlock": {
     "enabled": true,
     "sendMessage": true,
@@ -19,7 +19,7 @@
     ]
   },
   "botPremium": {
-    "price": "50/-",
+    "price": "100/-",
     "bots": [
       {
         "number": "94703830990",
