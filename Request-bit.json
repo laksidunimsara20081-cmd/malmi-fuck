@@ -22,11 +22,11 @@
     "price": "100/-",
     "bots": [
       {
-        "number": "94703830990",
+        "number": "94776803740",
         "active": true,
         "plan": "Bot Premium Monthly",
-        "buyDate": "2026-11-01",
-        "expireDate": "2026-12-01"
+        "buyDate": "2026-11-22",
+        "expireDate": "2026-12-22"
       },
       {
         "number": "94761234567",
