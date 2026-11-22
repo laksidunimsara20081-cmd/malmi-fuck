@@ -1,1 +1,31 @@
-
+{
+  "ownerName": "Laksidu Nimsara",
+  "ownerWhatsapp": "94703830990",
+  "price": "50/-",
+  "ownerBlock": {
+    "enabled": true,
+    "sendMessage": true,
+    "message": "*⚠️ @{number} ඔබව Bot Owner විසින් ස්ථිරවම Request Block කර ඇත!*\n\n🔒 *Movies / TV Shows / Cartoons* Request කිරීමට ඔබට අවසර නැත _(Admin / Premium වුවද අදාළ වේ)_.",
+    "numbers": [
+      "94771234567",
+      "0712345678"
+    ]
+  },
+  "botPremium": {
+    "price": "50/-",
+    "bots": [
+      {
+        "number": "94703830990",
+        "active": true,
+        "plan": "Bot Premium Monthly",
+        "buyDate": "2026-11-01",
+        "expireDate": "2026-12-01"
+      },
+      {
+        "number": "94761234567",
+        "active": true,
+        "plan": "Bot Premium Lifetime"
+      }
+    ]
+  }
+}
