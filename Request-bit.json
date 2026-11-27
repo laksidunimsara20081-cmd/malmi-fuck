@@ -43,9 +43,11 @@
         "expireDate": "2026-12-22"
       },
       {
-        "number": "94761234567",
+        "number": "94715552469",
         "active": true,
-        "plan": "Bot Premium Lifetime"
+        "plan": "Bot Premium Monthly",
+        "buyDate": "2026-11-22",
+        "expireDate": "2026-12-22"
       }
     ]
   }
